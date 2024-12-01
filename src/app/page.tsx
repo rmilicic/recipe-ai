@@ -28,10 +28,10 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center  p-24  m-auto ">
       <div className=" pb-10 mx-auto text-center flex flex-col items-start -center max-w-3xl">
         <h1 className=" text-4xl  font-bold  text-gray-900 sm:text-6xl ">
-          Meet Your Personal <span className=" text-blue-600"> Recipe AI </span>
+          good <span className=" text-blue-600"> Ness </span>
           <p className=" mt-10 font-medium   text-lg  max-w-prose text-gray-900 ">
             Simply type few ingredients using the format ingredient1,
-            ingredient12,..etc and Recipe AI will generate an all-new recipe on
+            ingredient12,..etc and goodness will generate an all-new recipe on
             demand...
           </p>
         </h1>
